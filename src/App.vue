@@ -160,7 +160,7 @@
             class="flex h-11 items-center justify-center rounded-full bg-gray-900 px-2 text-gray-400 hover:text-white"
           >
             <img
-              src="/img/avatar-1.jpeg"
+              src="/img/avatar-1.jpg"
               alt=""
               class="h-8 w-8 rounded-full object-cover"
             />
