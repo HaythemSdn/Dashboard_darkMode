@@ -157,14 +157,14 @@
             </button>
           </div>
           <button
-            class="flex h-11 items-center justify-center rounded-full bg-gray-900 px-2 text-gray-400 hover:text-white"
+            class="flex h-11 items-center justify-center rounded-full bg-gray-900 px-8 text-gray-400 hover:text-white"
           >
             <img
               src="/img/avatar-1.jpg"
               alt=""
-              class="h-8 w-8 rounded-full object-cover"
+              class="h-12 w-12 rounded-full object-cover"
             />
-            <span class="pl-2 text-sm">Haythem</span>
+            <span class="pl-2 text-lg">Haythem</span>
             <ChevronDownIcon class="h-6 w-6 stroke-current" />
           </button>
         </div>
