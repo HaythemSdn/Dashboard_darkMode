@@ -164,7 +164,7 @@
               alt=""
               class="h-8 w-8 rounded-full object-cover"
             />
-            <span class="pl-2 text-sm">Alexander</span>
+            <span class="pl-2 text-sm">Haythem</span>
             <ChevronDownIcon class="h-6 w-6 stroke-current" />
           </button>
         </div>
